@@ -10,3 +10,5 @@ sudo - gives you super powers to force run things
 cd - change directory
 cd ~ - go to your home directory
 pwd - print working directory
+atom . - opens atom in current directory
+echo 
