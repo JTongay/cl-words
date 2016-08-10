@@ -1,0 +1,12 @@
+mkdir - make directory
+ls - list stuff
+touch - create file
+rm - remove
+grep - find something
+cat - open file in bash
+head - show certain amount of lines starting from top
+tail - show certain amount of lines starting from bottom
+sudo - gives you super powers to force run things
+cd - change directory
+cd ~ - go to your home directory
+pwd - print working directory
